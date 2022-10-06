@@ -2,7 +2,7 @@
 
 Sistema web implementado en https://systemchile.com/MuniEmprender/registro.php
 
-Registro acerca de pymes o negocios en crecimiento dentro de la comuna
+Registro de pymes o negocios en crecimiento dentro de la comuna
 
 Incluye un aporte o ayuda por parte de la municipalidad.
 
